@@ -1,2 +1,2 @@
-# CodeMergingTest
-Code merging will go here once we start testing it.
+# Milestones
+All folders will go here.
